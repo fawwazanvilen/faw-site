@@ -1,0 +1,46 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "article",
+      "body",
+      "div",
+      "footer",
+      "h1",
+      "head",
+      "header",
+      "html",
+      "img",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "p",
+      "script",
+      "span",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "bg-gray-900",
+      "content",
+      "flex",
+      "font-bold",
+      "font-mono",
+      "hover:text-base0C",
+      "mb-2",
+      "mb-4",
+      "mb-8",
+      "mt-4",
+      "mt-8",
+      "p-4",
+      "space-x-4",
+      "text-2xl",
+      "text-base03",
+      "text-base05",
+      "text-base0D"
+    ],
+    "ids": null
+  }
+}

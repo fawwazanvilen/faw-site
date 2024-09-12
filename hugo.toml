@@ -3,3 +3,14 @@ baseURL = 'https://fawwazanvilen.github.io/'
 languageCode = 'en-us'
 title = "Faw's Web Site"
 theme = "faw-monospace"
+
+[build]
+writeStats = true
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/hugo_stats.json"
