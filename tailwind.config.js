@@ -1,6 +1,13 @@
 module.exports = {
-  purge: ['./layouts/**/*.html', './content/**/*.md', './themes/**/layouts/**/*.html'],
-  darkMode: false,
+  // purge: ['./layouts/**/*.html', './content/**/*.md', './themes/**/layouts/**/*.html'],
+  // content: ["./content/**/*.{html,js}", "./layouts/**/*.{html,js}"],
+  content: [
+    './content/**/*.{md,html,js}',
+    './layouts/**/*.{html,js}',
+    './themes/**/layouts/**/*.html'
+  ],
+  // darkMode: false,
+  // mode: 'jit', // this is enabled by default lmao
   theme: {
     extend: {
       fontFamily: {
