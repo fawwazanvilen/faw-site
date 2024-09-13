@@ -3,6 +3,7 @@ baseURL = 'https://fawwazanvilen.github.io/'
 languageCode = 'en-us'
 title = "Faw's Web Site"
 theme = "faw-monospace"
+ignoreFiles = ['posts/.*\.md$']
 
 [build]
 writeStats = true
@@ -14,3 +15,17 @@ writeStats = true
   [[module.mounts]]
     source = "hugo_stats.json"
     target = "assets/hugo_stats.json"
+  # [[module.mounts]]
+  #   source = 'content'
+  #   target = 'content'
+  #   # excludeFiles = ['themes/**/content/**/*.md']
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20

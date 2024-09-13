@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }}</title>
-    {{ $style := resources.Get "css/main.css" | resources.PostCSS }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+    {{ partial "head.html" . }}
 </head>
 <body class="bg-base0F text-base05 font-mono p-4">
     <header class="mb-8">
-        <nav>
+        {{/*  <nav>
             <ul class="flex space-x-4">
                 <li><a href="/" class="text-base0D hover:text-base0C">Home</a></li>
                 <li><a href="/blog" class="text-base0D hover:text-base0C">Blog</a></li>
                 <li><a href="/projects" class="text-base0D hover:text-base0C">Projects</a></li>
             </ul>
-        </nav>
+        </nav>  */}}
+        {{ partial "header.html" . }}
     </header>
     <main>
         {{ block "main" . }}{{ end }}
     </main>
     <footer class="mt-8 text-base03">
-        <p>© {{ now.Format "2006" }} Your Name</p>
+        {{ partial "footer.html" . }}
     </footer>
 </body>
 </html>

@@ -1,10 +1,11 @@
-/* @tailwind base;
+/* using custom tailwind directives */
+@tailwind base;
 @tailwind components;
-@tailwind utilities; */
+@tailwind utilities;
 
-@import 'tailwindcss/base';
+/* @import 'tailwindcss/base';
 @import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import 'tailwindcss/utilities'; */
 
 /* .bg-test {
   @apply bg-base00;
