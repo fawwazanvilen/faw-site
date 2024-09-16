@@ -1,10 +1,15 @@
-baseURL = 'https://fawwazanvilen.github.io/'
+baseURL = 'https://fawwaz.anvilen.space/'
 languageCode = 'en-us'
 title = "Faw's Web Site"
 theme = "faw-monospace"
 
 [build]
 writeStats = true
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
 
 # [module]
 #   [[module.mounts]]
@@ -27,3 +32,23 @@ writeStats = true
     name = "About"
     url = "/about/"
     weight = 20
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
+  [[menu.main]]
+    name = "Bets"
+    url = "/bets/"
+    weight = 50
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+    weight = 60
+  [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 70

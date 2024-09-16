@@ -3,21 +3,17 @@
 <head>
     {{ partial "head.html" . }}
 </head>
-<body class="bg-base0F text-base05 font-mono p-4">
-    <header class="mb-8">
-        {{/*  <nav>
-            <ul class="flex space-x-4">
-                <li><a href="/" class="text-base0D hover:text-base0C">Home</a></li>
-                <li><a href="/blog" class="text-base0D hover:text-base0C">Blog</a></li>
-                <li><a href="/projects" class="text-base0D hover:text-base0C">Projects</a></li>
-            </ul>
-        </nav>  */}}
-        {{ partial "header.html" . }}
-    </header>
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
-    <footer class="mt-8 text-base03">
+<body class="bg-orange-500 text-orange-50 font-mono p-20">
+    {{/*  <div class="mx-auto bg-gray-900 p-40">  */}}
+    <div>
+        <header class="mb-8 border-b-4 border-white pb-4">
+            {{ partial "header.html" . }}
+        </header>
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+    </div>
+    <footer class="mt-8 text-orange-50">
         {{ partial "footer.html" . }}
     </footer>
 </body>
