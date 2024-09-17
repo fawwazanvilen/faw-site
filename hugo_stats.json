@@ -26,6 +26,7 @@
       "ul"
     ],
     "classes": [
+      "active",
       "bg-orange-500",
       "border-b-4",
       "border-white",
@@ -56,6 +57,7 @@
       "text-3xl",
       "text-base03",
       "text-base0D",
+      "text-black",
       "text-orange-50",
       "w-auto"
     ],
