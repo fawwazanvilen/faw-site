@@ -21,7 +21,7 @@ Renders a menu for the given menu ID.
 {{- define "partials/inline/menu/walk.html" }}
   {{- $page := .page }}
   {{- range .menuEntries }}
-  
+
     {{- $attrs := dict "href" .URL }}
 
     {{/*  the commented out check here somehow doesn't work idk why  */}}
@@ -37,6 +37,17 @@ Renders a menu for the given menu ID.
     {{- else }}
       {{- $attrs = merge $attrs (dict "class" "hover:text-black hover:font-bold") }}
     {{- end }}
+
+    {{/*  with ancestor check, maybe useful?  */}}
+    {{/*  {{- $isCurrent := eq $page.RelPermalink .URL }}
+    {{- $isAncestor := and (not $isCurrent) (hasPrefix $page.RelPermalink .URL) }}
+    {{- if $isCurrent }}
+      {{- $attrs = merge $attrs (dict "class" "active text-black font-bold" "aria-current" "page") }}
+    {{- else if $isAncestor }}
+      {{- $attrs = merge $attrs (dict "class" "ancestor hover:text-black hover:font-bold" "aria-current" "true") }}
+    {{- else }}
+      {{- $attrs = merge $attrs (dict "class" "hover:text-black hover:font-bold") }}
+    {{- end }}  */}}
 
     {{- $name := .Name }}
     {{- with .Identifier }}
