@@ -50,5 +50,5 @@ writeStats = true
     weight = 60
   [[menu.main]]
     name = "Notes"
-    url = "/notes/"
+    url = "https://notes.fawwaz.anvilen.space"
     weight = 70
