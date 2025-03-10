@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="light">
 <head>
     {{ partial "head.html" . }}
 </head>
-<body class="bg-orange-500 text-orange-50 font-mono p-20">
-    {{/*  <div class="mx-auto bg-gray-900 p-40">  */}}
-    <div>
-        <header class="mb-8 border-b-4 border-white pb-4">
+<body class="bg-light text-dark font-body dark:bg-darkMode-light dark:text-darkMode-dark">
+    <div class="max-w-4xl mx-auto px-6 py-12">
+        <header class="mb-8 border-b border-lightgray dark:border-darkMode-lightgray pb-4">
             {{ partial "header.html" . }}
         </header>
         <main>
             {{ block "main" . }}{{ end }}
         </main>
+        <footer class="mt-12 pt-6 border-t border-lightgray dark:border-darkMode-lightgray text-darkgray dark:text-darkMode-darkgray">
+            {{ partial "footer.html" . }}
+        </footer>
     </div>
-    <footer class="mt-8 text-orange-50">
-        {{ partial "footer.html" . }}
-    </footer>
 </body>
 </html>
