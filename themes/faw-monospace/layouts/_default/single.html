@@ -1,10 +1,9 @@
 {{ define "main" }}
-  <article>
-    <h1 class="text-2xl font-bold mb-4">{{ .Title }}</h1>
-    <div class="text-base03 mb-4">{{ .Date.Format "January 2, 2006" }}</div>
+  <article class="prose prose-warm dark:prose-invert max-w-none">
+    <h1 class="text-2xl font-header font-bold mb-4">{{ .Title }}</h1>
+    <div class="text-gray dark:text-darkMode-gray mb-4">{{ .Date.Format "January 2, 2006" }}</div>
     <div class="content">
       {{ .Content }}
     </div>
   </article>
 {{ end }}
-

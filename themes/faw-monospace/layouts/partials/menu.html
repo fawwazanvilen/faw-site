@@ -15,7 +15,7 @@ Renders a menu for the given menu ID.
     {{/*  <ul class="flex flex-wrap space-x-4 md:space-x-6 lg:space-x-8">  */}}
     {{/*  <ul class="flex flex-wrap space-x-4">  */}}
     {{/*  <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">  */}}
-    <ul class="flex flex-wrap justify-between">
+    <ul class="flex flex-wrap gap-6 font-mono text-darkgray dark:text-darkMode-darkgray">
       <li>
         {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
       </li>
@@ -38,9 +38,9 @@ Renders a menu for the given menu ID.
 
     {{- $isCurrent := eq $page.RelPermalink .URL }}
     {{- if $isCurrent }}
-      {{- $attrs = merge $attrs (dict "class" "active text-black font-bold" "aria-current" "page") }}
+      {{- $attrs = merge $attrs (dict "class" "active text-primary font-bold" "aria-current" "page") }}
     {{- else }}
-      {{- $attrs = merge $attrs (dict "class" "hover:text-black hover:font-bold") }}
+      {{- $attrs = merge $attrs (dict "class" "hover:text-primary transition-colors") }}
     {{- end }}
 
     {{/*  with ancestor check, maybe useful?  */}}
