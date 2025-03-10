@@ -4,32 +4,32 @@ module.exports = {
     './layouts/**/*.{html,js}',
     './themes/**/layouts/**/*.html'
   ],
-  // darkMode: false,
-  // mode: 'jit', // this is enabled by default lmao
+  darkMode: 'class',
   theme: {
     extend: {
-      fontFamily: {
-        mono: ['Fira Code', 'monospace'],
+      colors: {
+        light: "#fffcf9",
+        lightgray: "#ede3d9",
+        gray: "#c4b1a2",
+        darkgray: "#7d6b5d",
+        dark: "#352b24",
+        primary: "#e07a5f",
+        secondary: "#81b29a",
+        accent: "#f2cc8f",
+        highlight: "rgba(224, 122, 95, 0.15)",
+        darkMode: {
+          light: "#2b2427",
+          lightgray: "#3d353a",
+          gray: "#7a6c75",
+          darkgray: "#d8c9d3",
+          dark: "#f5ecf1",
+        }
       },
-      // colors: {
-      //   // Base16 Default Dark
-      //   'base00': '#181818',
-      //   'base01': '#282828',
-      //   'base02': '#383838',
-      //   'base03': '#585858',
-      //   'base04': '#b8b8b8',
-      //   'base05': '#d8d8d8',
-      //   'base06': '#e8e8e8',
-      //   'base07': '#f8f8f8',
-      //   'base08': '#ab4642',
-      //   'base09': '#dc9656',
-      //   'base0A': '#f7ca88',
-      //   'base0B': '#a1b56c',
-      //   'base0C': '#86c1b9',
-      //   'base0D': '#7cafc2',
-      //   'base0E': '#ba8baf',
-      //   'base0F': '#a16946',
-      // },
+      fontFamily: {
+        header: ["Space Grotesk", "sans-serif"],
+        body: ["Inter", "sans-serif"],
+        mono: ["JetBrains Mono", "monospace"],
+      },
     },
   },
   variants: {
