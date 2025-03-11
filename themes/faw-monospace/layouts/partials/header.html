@@ -1,9 +1,26 @@
-<h1 class="text-3xl font-header font-bold mb-10 text-primary hover:text-dark dark:hover:text-darkMode-dark transition-colors">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="mr-2 inline-block" viewBox="0 0 24 24">
+<div class="flex justify-between items-center mb-8 border-b border-lightgray dark:border-darkMode-lightgray pb-4">
+    <h1 class="text-3xl font-header font-bold text-primary hover:text-dark dark:hover:text-darkMode-dark transition-colors">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="mr-2 inline-block" viewBox="0 0 24 24">
         <circle cx="12" cy="12" r="10" fill="currentColor" />
-    </svg>
-    <a href="{{ .Site.BaseURL }}">
+      </svg>
+      <a href="{{ .Site.BaseURL }}">
         {{ site.Title }}
-    </a>
-</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+      </a>
+    </h1>
+    
+    <div class="flex items-center">
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+      
+      <!-- Dark mode toggle button -->
+      <button id="theme-toggle" class="ml-4 p-2 rounded-full bg-lightgray dark:bg-darkMode-lightgray text-darkgray dark:text-darkMode-darkgray hover:text-primary dark:hover:text-primary transition-colors" onclick="toggleTheme()">
+        <!-- Sun icon (shown in dark mode) -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        <!-- Moon icon (shown in light mode) -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+        </svg>
+      </button>
+    </div>
+  </div>

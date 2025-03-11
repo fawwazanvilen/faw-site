@@ -4,6 +4,10 @@
 
 /* Custom styles */
 @layer base {
+  p {
+    @apply mb-4;
+  }
+
   a {
     @apply text-primary hover:text-dark dark:hover:text-darkMode-dark transition-colors;
   }
