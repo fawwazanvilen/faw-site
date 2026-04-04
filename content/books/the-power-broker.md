@@ -33,16 +33,45 @@ If you want to join, please let us know (contact me through my email, or twitter
 
 ## Notes
 
-*Notes will be added as we go.*
+### Week 1 - Introduction + Chapters 1–3
+
+*To be discussed on Sunday, 05 April 2026*
+
+<!-- **Key passages:**
+
+- The ferry scene with Frances Perkins — Moses had the West Side Highway "all figured out" as a 25-year-old. "He was always burning up with ideas, just burning up with them!"
+- Moses at the civil service hearings: "a tall, slim figure in white among the red-faced, burly, cigar-smoking Tammany politicians"
+- Bella Moses inspecting camp bunks, making beds herself, ordering chandeliers installed overnight — the direct line to her son
+- The efficiency rating system and its mathematical purity vs. the human reality of 50,000 employees -->
+
+**Discussion questions:**
+
+1. What do you make of the Rosalie → Bella → Robert inheritance that Caro draws? How much is Caro the biographer shaping this vs. how much is real?
+
+2. How do you read young Moses' idealism, knowing how the story ends?
+
+3. What does Tammany's New York remind you of? What's different?
+
+4. Moses' civil service reform tried to quantify everything about government work into numbers. When does that kind of legibility project work, and when does it backfire?
+
+5. Moses at Yale was an outsider who built his own parallel structure of influence. How did that experience shape him?
+
+6. The Bureau of Municipal Research basically invented budgets, org charts, line-item accounting for cities. What would a modern equivalent of that look like?
+
+7. Moses refused to compromise on his civil service plan. Was he right to hold the line, or did his stubbornness kill his own reform?
+
+8. Caro describes Moses as someone who wanted to *pour* concrete, not *count* it. What's the tension between understanding a system and wanting to change it?
+
+9. Moses' Oxford thesis has some pretty extreme views on class and governance. How seriously should we take a 24-year-old's thesis as a window into who they become?
+
+10. What drove you crazy, and what do you admire, about Moses so far?
 
 <!-- Template for weekly notes:
 
 ### Week N — Chapters X–Y
 
-**Summary:**
+**Key passages:**
 
-**Things that stood out:**
-
-**Questions / discussion points:**
+**Discussion questions:**
 
 -->

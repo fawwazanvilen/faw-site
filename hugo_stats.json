@@ -9,15 +9,18 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
       "html",
       "img",
+      "input",
       "li",
       "link",
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "script",
       "span",
@@ -92,8 +95,17 @@
       "w-auto"
     ],
     "ids": [
+      "connecting-to-the-present",
+      "discussion-questions",
+      "key-passages-to-revisit",
       "notes",
-      "reading-plan"
+      "on-moses-the-person",
+      "on-power-and-idealism",
+      "on-systems-and-institutions",
+      "prep-checklist",
+      "reading-plan",
+      "week-1---introduction--chapters-13",
+      "week-1--introduction--chapters-13"
     ]
   }
 }
