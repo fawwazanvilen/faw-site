@@ -1,7 +1,7 @@
 baseURL = 'https://fawwaz.anvilen.space/'
 languageCode = 'en-us'
-title = "Faw's Web Site"
-theme = "faw-monospace"
+title = "Fawwaz Anvilen"
+theme = "faw-minimal"
 
 [build]
 writeStats = true
@@ -11,28 +11,16 @@ writeStats = true
   [markup.goldmark.renderer]
     unsafe = true
 
-# [module]
-#   [[module.mounts]]
-#     source = "assets"
-#     target = "assets"
-#   [[module.mounts]]
-#     source = "hugo_stats.json"
-#     target = "assets/hugo_stats.json"
-#   [[module.mounts]]
-#     source = 'content'
-#     target = 'content'
-    # excludeFiles = ['themes/**/content/**/*.md']
-
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "Projects"
+    url = "/projects/"
     weight = 10
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Books"
+    url = "/books/"
     weight = 20
   [[menu.main]]
     name = "Notes"
     url = "https://notes.fawwaz.anvilen.space"
-    weight = 70
+    weight = 30

@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ::selection {
+    @apply bg-accent/15 text-ink;
+  }
+}
+
+@layer components {
+  .prose {
+    @apply text-base leading-relaxed text-ink;
+    max-width: 65ch;
+  }
+
+  .prose p {
+    @apply mb-6;
+  }
+
+  .prose h1 {
+    @apply font-serif text-3xl font-semibold mt-12 mb-4;
+  }
+
+  .prose h2 {
+    @apply font-serif text-2xl font-semibold mt-10 mb-3;
+  }
+
+  .prose h3 {
+    @apply font-serif text-xl font-semibold mt-8 mb-3;
+  }
+
+  .prose a {
+    @apply text-accent hover:text-accent-hover underline underline-offset-2 decoration-accent/30 hover:decoration-accent transition-colors;
+  }
+
+  .prose strong {
+    @apply font-semibold;
+  }
+
+  .prose em {
+    @apply font-serif italic;
+  }
+
+  .prose p + ul {
+    @apply -mt-4;
+  }
+
+  .prose ul {
+    @apply mb-6 pl-5 list-disc;
+  }
+
+  .prose ol {
+    @apply mb-6 pl-5 list-decimal;
+  }
+
+  .prose li {
+    @apply mb-1.5;
+  }
+
+  .prose blockquote {
+    @apply border-l-2 border-ink/15 pl-5 my-6 text-ink-light italic;
+  }
+
+  .prose code {
+    @apply font-mono text-sm bg-warm-bg-alt rounded px-1.5 py-0.5;
+  }
+
+  .prose pre {
+    @apply bg-warm-bg-alt rounded-md p-4 my-6 overflow-x-auto;
+  }
+
+  .prose pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .prose img {
+    @apply my-8 rounded;
+  }
+
+  .prose hr {
+    @apply my-10 border-ink/10;
+  }
+}

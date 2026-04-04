@@ -4,7 +4,6 @@ module.exports = {
     './layouts/**/*.{html,js}',
     './themes/**/layouts/**/*.html'
   ],
-  darkMode: 'class',
   theme: {
     extend: {
       colors: {
@@ -26,14 +25,20 @@ module.exports = {
         }
       },
       fontFamily: {
-        header: ["Space Grotesk", "sans-serif"],
-        body: ["Inter", "sans-serif"],
-        mono: ["JetBrains Mono", "monospace"],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
+        serif: ['Source Serif 4', 'Georgia', 'serif'],
+        mono: ['JetBrains Mono', 'monospace'],
+      },
+      colors: {
+        'warm-bg': '#f8f6f3',
+        'warm-bg-alt': '#f0ece6',
+        'ink': '#1a1a1a',
+        'ink-light': '#555555',
+        'ink-faint': '#999999',
+        'accent': '#3b5998',
+        'accent-hover': '#2a4073',
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [],
 }

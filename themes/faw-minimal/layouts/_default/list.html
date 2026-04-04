@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <h1 class="font-serif text-3xl font-semibold mb-4">{{ .Title }}</h1>
+  {{ with .Content }}
+    <div class="prose mb-10">
+      {{ . }}
+    </div>
+  {{ end }}
+  <ul class="space-y-4">
+    {{ range .Pages }}
+      <li class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1">
+        <a href="{{ .Permalink }}" class="text-ink hover:text-accent transition-colors">{{ .Title }}</a>
+        <span class="font-mono text-sm text-ink-faint shrink-0">{{ .Date.Format "2006-01-02" }}</span>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

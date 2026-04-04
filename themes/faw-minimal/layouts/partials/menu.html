@@ -1,0 +1,18 @@
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav>
+    <ul class="flex flex-wrap gap-x-5 gap-y-1 font-mono text-sm text-ink-light">
+      {{- range . }}
+        {{- $isCurrent := eq $page.RelPermalink .URL }}
+        <li>
+          <a href="{{ .URL }}"
+            class="{{ if $isCurrent }}text-ink font-medium{{ else }}hover:text-ink transition-colors{{ end }}"
+            {{ if $isCurrent }}aria-current="page"{{ end }}
+          >{{ .Name }}</a>
+        </li>
+      {{- end }}
+    </ul>
+  </nav>
+{{- end }}
