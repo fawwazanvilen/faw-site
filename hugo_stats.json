@@ -5,8 +5,10 @@
       "article",
       "body",
       "div",
+      "em",
       "footer",
       "h1",
+      "h2",
       "head",
       "header",
       "html",
@@ -20,8 +22,14 @@
       "script",
       "span",
       "strong",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "time",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -62,11 +70,13 @@
       "px-6",
       "py-12",
       "py-20",
+      "reading",
       "shrink-0",
       "sm:flex-row",
       "sm:items-baseline",
       "sm:justify-between",
       "space-y-4",
+      "status",
       "text-3xl",
       "text-4xl",
       "text-accent",
@@ -78,8 +88,12 @@
       "text-sm",
       "text-xl",
       "transition-colors",
+      "upcoming",
       "w-auto"
     ],
-    "ids": null
+    "ids": [
+      "notes",
+      "reading-plan"
+    ]
   }
 }

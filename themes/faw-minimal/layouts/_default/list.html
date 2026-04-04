@@ -9,7 +9,7 @@
     {{ range .Pages }}
       <li class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1">
         <a href="{{ .Permalink }}" class="text-ink hover:text-accent transition-colors">{{ .Title }}</a>
-        <span class="font-mono text-sm text-ink-faint shrink-0">{{ .Date.Format "2006-01-02" }}</span>
+        <span class="font-mono text-sm text-ink-faint shrink-0">{{ .Date.Format "02 January 2006" }}</span>
       </li>
     {{ end }}
   </ul>
