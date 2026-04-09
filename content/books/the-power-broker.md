@@ -33,40 +33,29 @@ If you want to join, please let us know (contact me through my email, or twitter
 
 ## Notes
 
-### Week 1 - Introduction + Chapters 1–3
+### Week 1 — Introduction + Chapters 1–3
 
-*To be discussed on Sunday, 05 April 2026*
+*Discussed Sunday, 06 April 2026. Present: Faw, Luthan, Nobu, Ghani.*
 
-<!-- **Key passages:**
+**Key threads:**
 
-- The ferry scene with Frances Perkins — Moses had the West Side Highway "all figured out" as a 25-year-old. "He was always burning up with ideas, just burning up with them!"
-- Moses at the civil service hearings: "a tall, slim figure in white among the red-faced, burly, cigar-smoking Tammany politicians"
-- Bella Moses inspecting camp bunks, making beds herself, ordering chandeliers installed overnight — the direct line to her son
-- The efficiency rating system and its mathematical purity vs. the human reality of 50,000 employees -->
+1. **Arrogance and idealism: separable?** The group leaned toward "yes, but you walk a very thin line." Nobu argued that some willingness to not listen to others is necessary to displace 500,000 people from the Bronx, and that elitism itself is more necessary than the specific racial contempt Moses developed. He distinguished between the Oxford-era Anglo-imperial arrogance (contempt toward colonial subjects) and the more general elitism that drives large-scale vision. Luthan framed it through white man's burden and social Darwinism, noting that for Moses's generation this wasn't understood as arrogance but as the natural order. Ghani noted that the contempt is toward characteristics, not people personally. Faw raised a paper about how compassion for the poor requires insulation from the poor, and wondered how historically justifiable social Darwinism was in the early 1900s given that "we live in the future where it turned out to be mostly wrong."
 
-**Discussion questions:**
+2. **Institution-building from the margins.** At Yale, Moses couldn't enter the real power structure (no Skull and Bones, no Vanderbilt Hall) so he built his own through the Kit Cat Club, the Courant, and minor sports. Nobu suggested Moses's institution-building wasn't strategic but emerged from rejection: "the rejection is what made him start building." He also argued that at Yale, Moses wasn't political at all, that it was "pure force of will." Faw pushed back that this presupposes Moses wanted to build influence, whereas his overriding motive was idealism. Luthan reframed the question as simply: how do outsiders end up with disproportionate influence? Faw tried to find Indonesian parallels (Suharto, Jokowi) but found them imperfect. The group noted Jokowi 2014 vs Jokowi 2019 as "two completely different people."
 
-1. Caro traces a direct line of arrogance from Rosalie Silverman Cohen to Bella Moses to Robert Moses. But he also traces a line of idealism through the same inheritance. Are these two traits separable, or does the specific kind of idealism Moses had (Platonic, top-down, "I know best") require the arrogance to function? Is there a version of Moses with the vision but without the contempt?
+3. **The Oxford thesis and elite education.** Moses's rigid upper/lower civil service division led to a long discussion about credentialism, legibility, and educational lineage. Nobu made the point that modern mass education's usefulness comes from its legibility across large populations, which makes it hard to have non-legible systems like liberal arts schooling. He also observed that "a non-small part of this education is socialization within an intimate club" and that actual content is secondary. Nobu further argued that Indonesia's Dutch-based educational lineage (built for nationalism and bureaucratic competence) is solving a fundamentally different problem than the Anglo model (which was originally about producing clergymen and lawyers). Luthan asked the more idealistic question: how do you make this kind of education available to everyone? Ghani saw Moses's meritocracy push as more self-serving than idealistic, noting that competence-based systems were "more achievable for him" given that the existing patronage system locked him out.
 
-2. At Yale, excluded from the real power structure, Moses built "within Yale, a world of his own" where he had influence. Caro flags this as the key pattern of his whole career. How general is this move? Is this what all institution-builders do when locked out of existing institutions, and is it what Burja would call the seed of a Great Founder, or just a cope that happened to scale?
+4. **Pre-WWI optimism and historical naivety.** Nobu contextualized Moses's generation through the long European peace before WWI, arguing there was "a great sense of complacency" among elites who were grandchildren of those who maintained that peace, though he wasn't sure how much this transferred to America. Faw confirmed that Caro explicitly connects this to the spirit of the age that fueled Progressive-era reform movements.
 
-3. Moses's Oxford thesis advocates for a rigid upper/lower division in civil service, with "university men" monopolizing policy roles and near-zero upward mobility for everyone else. His argument is that "such democracy is false democracy." Steel-man this. Under what conditions is he right? Indonesia's current bureaucracy (PNS/ASN) arguably suffers from the opposite problem. What would a Moses-style reform of the Indonesian civil service look like, and would it be net positive?
+5. **Moses as European, not American.** Nobu flagged how surprisingly European Moses is: the Grand Tour, Venice, Oxford, swimming with the Khedive of Egypt. He expressed "a great sadness" that Moses's pet project was highways rather than transit, connecting it to Moses's racial attitudes, and wanted to read further to understand how much of the highway project was racially motivated versus idealism-based. Faw agreed he expected a "quintessentially American" figure but found someone "super into the old world." Nobu observed that the Yale class of 1909's elite was still essentially European aristocracy, and that the "American" image we hold is very post-WWII, making Western grievances about lost culture more salient when you see that culture still existed in 1900.
 
-4. Young Moses believed that "Truth and Logic would prevail," that if his civil service system was right, and if it got a hearing, people would adopt it. Caro frames this as naive. But Moses's system WAS technically excellent (Kaplan called it "a masterpiece"). What's the actual failure mode here: is it that the system was wrong, that the politics were impossible, or that Moses had zero theory of mind about how reform actually propagates through institutions?
+**What we admire about Moses (closing round):**
+- **Faw:** His erudition, breadth of knowledge, and ambition.
+- **Luthan:** His intellectual bravery. At the Oxford Race Congress, even though Luthan disagreed with what Moses said, he admired that Moses just stated his position and accepted the consequences.
+- **Ghani:** The realization that negative emotions, including arrogance, can be productively channeled to make the world better. A way to distill Moses' thinking: when you know you're competent and you see incompetent people coalescing against you, you have justification to destroy them. "Justified, productive anger."
+- **Nobu:** How European he still is. "As the person who shapes New York, I wish he were more of a New Yorker." Also the question of how much of "New Yorker" as an identity was actually created by Moses's tenure.
 
-5. The Bureau of Municipal Research invented the municipal budget, line-item accounting, and org charts for government, tools we now consider so basic they're invisible. Moses dismissed the Bureau as too slow. Was he right to be impatient, or was the Bureau's painstaking approach (count the cement bags, file everything, build the evidence base) actually the thing that made reform possible, and Moses just wanted to skip to the part where he got to pour concrete?
-
-6. Moses's efficiency rating system tried to reduce every government employee's performance to "conclusions expressed in arithmetical terms." He explicitly wanted to suppress the "human factor." Is this a Seeing Like a State problem (Scott), where the map necessarily distorts the territory? Or is the problem specifically that Moses's map was imposed by fiat rather than iterated through feedback? When does that kind of legibility project work, and when does it backfire?
-
-7. Tammany never openly opposed Moses's reforms. They just stalled, obfuscated, demanded "individual consideration" of each case, and waited for the reformers to lose energy. This is arguably the single most common way institutional reform dies everywhere, including Indonesia. Is there a counter-strategy, or is this an intrinsic weakness of reform within democratic systems?
-
-8. Moses's mother Bella and his grandmother Rosalie both had a specific relationship to the people they "helped": patron to dependent, Lady Bountiful to grateful poor. Caro describes this as philanthropy that was "something very close to patronage." The German Jews literally coined the word "kike" for the Eastern European Jews they were helping. How does this map onto contemporary development work and EA-adjacent philanthropy? Is the patron-dependent dynamic inevitable when the helper has vastly more resources and education than the helped?
-
-9. Caro opens and closes the introduction with the same Sophocles line: "One must wait until the evening to see how splendid the day has been." The intro then gives you the FULL evening (every crime, every displaced family, every killed transit line) before the story even starts. Why does Caro spoil the ending? What does this narrative choice do to how you read the early idealist chapters? Does knowing the ending make young Moses tragic, or does it make him a villain from the start?
-
-10. Frances Perkins on the ferry, watching Moses describe his vision for the West Side waterfront: "He had it all figured out." The diapers in Central Park. The highways along the water. This is a man who sees problems and immediately generates concrete, implementable solutions at scale. Indonesia is full of people who can diagnose problems but almost nobody who can generate visions at this level of specificity. What produces a mind like this, and is the specificity of vision itself the thing that later becomes dangerous, because it forecloses democratic deliberation about alternatives?
-
-11. What drove you crazy, and what do you admire, about Moses so far?
+**Format note:** The group decided future discussions should be less question-driven and more passage-driven. Highlight interesting or funny passages during the week, then discuss those. Discussions will be one hour, Saturday mornings at 10 WIB.
 
 <!-- Template for weekly notes:
 
