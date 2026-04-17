@@ -4,6 +4,8 @@ date = 2026-04-04
 draft = false
 +++
 
+![The Power Broker book cover](cover.jpg)
+
 **[The Power Broker: Robert Moses and the Fall of New York](https://en.wikipedia.org/wiki/The_Power_Broker)** by Robert A. Caro
 
 I'm reading the book with Luthan. The book has 7 parts, 50 chapters, ~1,162 pages. We're aiming for ~100–150 pages per week.
@@ -16,8 +18,8 @@ If you want to join, please let us know (contact me through my email, or twitter
 |------|------|----------|-------|------|--------|
 | 1 | 05 April 2026 | Intro + 1–3 | 1–58 | I. The Idealist | <span class="status done">Done</span> |
 | 2 | 12 April 2026 | 4–7 | 59–135 | II–III | <span class="status done">Done</span> |
-| 3 | 19 April 2026 | 8–11 | 136–180 | III. The Rise to Power | <span class="status reading">Reading</span> |
-| 4 | 26 April 2026 | 11–14 | 181–259 | IV. The Use of Power | <span class="status upcoming">Upcoming</span> |
+| 3 | 19 April 2026 | 8–11 | 136–xx | III. The Rise to Power | <span class="status reading">Reading</span> |
+| 4 | 26 April 2026 | 12–14 | xx–259 | IV. The Use of Power | <span class="status upcoming">Upcoming</span> |
 | 5 | 03 May 2026 | 15–17 | 260–322 | IV | <span class="status upcoming">Upcoming</span> |
 | 6 | 10 May 2026 | 18–20 | 323–401 | IV | <span class="status upcoming">Upcoming</span> |
 | 7 | 17 May 2026 | 21–23 | 402–467 | IV | <span class="status upcoming">Upcoming</span> |
@@ -34,6 +36,8 @@ If you want to join, please let us know (contact me through my email, or twitter
 ## Notes
 
 ### Week 1 — Introduction + Chapters 1–3
+
+![Week 1 Discussion](week-1.jpg)
 
 *Discussed Sunday, 06 April 2026. Present: Faw, Luthan, Nobu, Ghani.*
 
@@ -66,6 +70,8 @@ here's my draft — i matched the week 1 format and voice as closely as i could.
 
 *Discussed Saturday, 12 April 2026. Present: Faw, Luthan, Nobu, Guntur.*
 
+![Week 2 Discussion](week-2.jpg)
+
 **Key threads:**
 
 1. **The invention of good governance.** The group was struck by how recently basic governance technologies were invented — municipal budgets, line-item accounting, org charts. Nobu and Faw shared the same initial reaction: surprise at how *new* these concepts are. Guntur came at it from the opposite direction: he was surprised at how *old* they are, given that Indonesia is still struggling with the same problems a century later. Nobu raised the point that the language of good governance has since been captured by opponents of reform — terms like "efficiency" and "business-like government" now carry negative connotations in public service discourse. He argued that it's harder to implement good governance today than in the 1920s precisely because the opposition has learned to speak the reformers' language. Faw noted that the Bureau of Municipal Research stopped investigating once its allies gained power under Mayor Mitchel, and that 47 inspectors were appointed without examination by a reformer from his own organization — suggesting that reform identity may be inherently unstable once reformers hold power.
@@ -86,6 +92,9 @@ here's my draft — i matched the week 1 format and voice as closely as i could.
 
 9. **Al Smith's self-education.** Briefly discussed. Smith read every bill introduced in the Legislature, studied law books past midnight, and read the entire annual appropriations bill — something no one had ever done. Faw contrasted Smith's method (bottom-up mastery of legislative machinery) with Moses's Oxford education (top-down rationalist system design). Both mastered government, but through completely opposite approaches. The group noted the irony that Smith — the Tammany product — developed a more empirically grounded understanding of government than Moses the reformer.
 
+**Others:**
+
+- I'm also creating a souvenir for attendees of W2's meeting. It's a bracelet with a text on it, "What Would Bob Moses Do?". Pics to come.
 
 <!-- Template for weekly notes:
 
